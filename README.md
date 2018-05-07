@@ -27,7 +27,7 @@ AFRS comprises three regional groups and 27 squadrons with more than 1,200 recru
 
 ### AFRS Project Management Office (PMO)
 
-The system is managed by a product owner and three other deputy program managers that represent the three Air Force components (Active Duty, Reserve, and Air National Guard) 
+The system is managed by a product owner, three other deputy program managers that represent the three Air Force components (Active Duty, Reserve, and Air National Guard), and one tech advisor. 
 
 ### Vendor
 
